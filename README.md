@@ -5,11 +5,7 @@ I'm the creator of the Sustainland framework and HybridUI library, an Applicatio
 
 ## 🔭 What I'm working on
 
-I'm currently working on several projects, mainly focused on the Sustainland framework, which is designed to build stable and sustainable applications with minimal dependencies. Here are some of the key projects:
-
-- **[sustainland/sustain](https://github.com/sustainland/sustain)**: The main framework that barely uses dependencies and is designed especially to make stable and sustainable applications.
-- **[sustainland/docs](https://github.com/sustainland/docs)**: Documentation for the Sustain framework, providing guidance on how to build sustainable applications.
-- **[sustainland/cli](https://github.com/sustainland/cli)**: The Sustain CLI, which helps you create new sustain apps, run them, and even generate controllers and entities.
+I'm currently working on several projects, mainly focused on the **[sustainland/sustain](https://github.com/sustainland/sustain)**, which is designed to build stable and sustainable applications with minimal dependencies. Here are some of the key projects:
 
 In addition to these, I'm also working on:
 - **[hybridui/hybridui](https://github.com/hybridui/hybridui)**: More details coming soon!
@@ -26,9 +22,6 @@ Feel free to ask me anything about JavaScript, TypeScript, or application archit
 
 You can reach me at [my website](https://aymen.co) or on [Twitter](https://twitter.com/labidiaymen).
 
-## ⚡ Fun fact
-
-I believe that sustainable applications are the future of software development.
 
 
 
